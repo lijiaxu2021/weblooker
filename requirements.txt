@@ -1,0 +1,4 @@
+flask>=2.3.0
+flask-cors>=4.0.0
+user-agents>=1.1.0
+ua-parser>=0.18.0
